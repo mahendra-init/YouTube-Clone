@@ -28,11 +28,11 @@ Welcome to YouTube Clone! This is a ReactJS based web application that replicate
     `npm run start`
 
 ### **Deployment**
-To create a production build, use command:
+To create a production build, use command:<br>
 `npm run build`
 
 This project is deployed to a static hosting service Netlify.<br>
-**[Live Demo](https://my-media-page.netlify.app/)**
+##**[Live Demo](https://my-media-page.netlify.app/)**
 
 ### **Conclusion**
 YouTube Clone is a simple and functional web application that demonstrates the power of ReactJS and Material UI in building beautiful and responsive web applications. With the help of RapidAPI YouTube v3 and Axios, it is also capable of integrating with APIs to fetch data and provide a rich user experience.
