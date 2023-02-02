@@ -15,23 +15,23 @@ Welcome to YouTube Clone! This is a ReactJS based web application that replicate
 - The website is designed to be responsive and adaptable, ensuring a smooth user experience across all devices and screen sizes.
 
 ### **Getting Started**
-- Clone the repository using the following command:`<br>`
+- Clone the repository using the following command:<br>
     `git clone https://github.com/mahendra-init/YouTube-Clone.git`
 
-- Install the dependencies by running the following command in the terminal:`<br>`
+- Install the dependencies by running the following command in the terminal:<br>
     `npm install`
 
 - Login to **[RapidAPI](https://rapidapi.com)** to get your api key.
-- Create .env file in your root directory and set your api key.`<br>`
+- Create .env file in your root directory and set your api key.<br>
     `REACT_APP_RAPID_API_KEY=PASTE_YOUR_API_KEY`
-- To run on localhost, use command:`<br>`
+- To run on localhost, use command:<br>
     `npm run start`
 
 ### **Deployment**
 To create a production build, use command:
 `npm run build`
 
-This project is deployed to a static hosting service Netlify.`<br>`
+This project is deployed to a static hosting service Netlify.<br>
 **[Live Demo](https://my-media-page.netlify.app/)**
 
 ### **Conclusion**
